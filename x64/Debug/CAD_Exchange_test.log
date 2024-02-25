@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Cpp\CAD_Exchange\CAD_Exchange_test\Main.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CAD_Exchange_test.vcxproj -> D:\Cpp\CAD_Exchange\CAD_Exchange_test\x64\Debug\CAD_Exchange_test.exe
